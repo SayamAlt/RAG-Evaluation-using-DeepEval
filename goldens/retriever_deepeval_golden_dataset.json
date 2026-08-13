@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g001",
+    "query": "What are the possible causes I need to investigate?",
+    "ideal_answer": "You need to investigate five possible causes that could be affecting the situation. It's important to do this efficiently, keeping in mind the average handling time to ensure a quick resolution.",
+    "source": "TODO-verify"
+  },
+  {
+    "id": "g002",
+    "query": "Why is my CPU cable barely plugged in and twisted?",
+    "ideal_answer": "It sounds like the cable may not be securely connected, which can lead to performance issues. I recommend checking the connection to ensure it's fully plugged in. If the cable is twisted, it might be worth untangling it to prevent any damage. If you're still experiencing issues after that, we can look into a replacement cable.",
+    "source": "TODO-verify"
+  },
+  {
+    "id": "g003",
+    "query": "Will everything go back to normal next week?",
+    "ideal_answer": "Yes, we anticipate that everything should return to normal next week. We appreciate your patience during this high call volume period.",
+    "source": "TODO-verify"
+  },
+  {
+    "id": "g004",
+    "query": "What services does Vital Care Health provide?",
+    "ideal_answer": "Vital Care Health offers a range of healthcare services including primary care, preventive care, and specialized treatments. We focus on providing comprehensive support to meet your health needs.",
+    "source": "TODO-verify"
+  },
+  {
+    "id": "g005",
+    "query": "Is the link you provided secure for entering my personal information?",
+    "ideal_answer": "Yes, the link is secure. You can safely click on it to enter your full name and card information. Just make sure not to click on any emails that seem suspicious or are not from us.",
+    "source": "TODO-verify"
+  },
+  {
+    "id": "g006",
+    "query": "Are vaccinations and annual checkups covered by my insurance?",
+    "ideal_answer": "Yes, vaccinations and annual checkups are generally covered at 100%, which means you won't have to pay any out-of-pocket costs for these services.",
+    "source": "TODO-verify"
+  },
+  {
+    "id": "g007",
+    "query": "Can you suggest the best rooms for four people?",
+    "ideal_answer": "Absolutely! For four people, I recommend our family suite, which offers two queen beds and a spacious living area. Alternatively, we have connecting rooms that provide more privacy while still being close together. Would you like more details on either option?",
+    "source": "TODO-verify"
+  },
+  {
+    "id": "g008",
+    "query": "Can you help me check my desktop settings?",
+    "ideal_answer": "Absolutely! Let me take a moment to check your desktop settings for you. Please hold on.",
+    "source": "TODO-verify"
+  },
+  {
+    "id": "g009",
+    "query": "Can you ensure my package gets priority after the delay?",
+    "ideal_answer": "Yes, I can prioritize your package now that it's back in transit. I'll make sure it receives the attention it needs to reach you as quickly as possible.",
+    "source": "TODO-verify"
+  },
+  {
+    "id": "g010",
+    "query": "Can you help me with my policy details?",
+    "ideal_answer": "Of course, Monique! I can assist you with your policy details. Could you please confirm your policy number?",
+    "source": "TODO-verify"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "g001",
+    "query": "What should I do if my internet stops working?",
+    "expected_output": "If your internet stops working, a good place to start is to unplug and then re-plug the cable connected to your modem.",
+    "retrieval_context": [
+      "again in case it doesn't of course i also need to confirm that of course i also need to confirm that it's resolved before i could end the it's resolved before i could end the call so take your time call so take your time thank you thank you um um um do you think i can do this on my own the do you think i can do this on my own the next time my internet stops working next time my internet stops working unplug then re-plug the cable i know i unplug then re-plug the cable i know i should have thought about this before should have thought about this before but i don't want to tinker with but i don't want to tinker with that's a great idea yes that's a great idea yes in fact um your modem is a good place to in fact um your modem is a good place to start when you're having connection start when you're having connection issues issues issues"
+    ]
+  },
+  {
+    "id": "g002",
+    "query": "Why is it important for the customer to feel like it's a collaboration?",
+    "expected_output": "It's important for the customer to feel like it's a collaboration because if they don't trust your ability or willingness to help, it will be difficult for you to assist them effectively. When customers feel involved and valued in the process, they are more likely to cooperate and provide the necessary information.",
+    "retrieval_context": [
+      "if your customer doesn't trust your ability or your willingness trust your ability or your willingness to help her it's going to be hard for to help her it's going to be hard for you to make her do things and obtain you to make her do things and obtain information from her and you might think information from her and you might think that well i'm the expert here why can't that well i'm the expert here why can't she just bloody well listen to me she just bloody well listen to me that is true but remember that your that is true but remember that your customer has the eyes to see and and customer has the eyes to see and and the hands to move things around for you the hands to move things around for you so it is very important that she feels so it is very important that she feels that it it is a collaboration instead of that it it is a"
+    ]
+  },
+  {
+    "id": "g003",
+    "query": "What do I need to provide to check for outages in my area?",
+    "expected_output": "You need to provide your account number to check for outages in your area.",
+    "retrieval_context": [
+      "you said internet intermittent connection no i've internet intermittent connection no i've been reloading it for 30 minutes been reloading it for 30 minutes straight now and there is nothing straight now and there is nothing whatsoever whatsoever whatsoever i see okay i see okay okay so i'm going to start okay so i'm going to start troubleshooting now first thing i'm troubleshooting now first thing i'm going to do is to check for outages in going to do is to check for outages in your area and for that i would need to your area and for that i would need to pull up your account may i may have your pull up your account may i may have your account number it's uh account number it's uh two and three two and three four five six four five six eight 879. eight 879. eight 879. thank you thank you notice this pattern because this is notice this"
+    ]
+  },
+  {
+    "id": "g004",
+    "query": "How can I redeem my loyalty points?",
+    "expected_output": "You can redeem your loyalty points by either asking for a discount while making a purchase at our store or using them to claim rewards online. If you prefer to redeem them online, I can guide you through the process step by step.",
+    "retrieval_context": [
+      "else I can assist you with regarding your account actually I have a regarding your account actually I have a question about the loyalty points I've question about the loyalty points I've accumulated how can I redeem them glad accumulated how can I redeem them glad to give you more details on that John to to give you more details on that John to redeem your loyalty points you can redeem your loyalty points you can either ask for a discount while making a either ask for a discount while making a purchase at our store or use them to purchase at our store or use them to claim rewards online if you prefer to claim rewards online if you prefer to redeem them online I can guide you redeem them online I can guide you through the process step by step are you through the process step by step are you in front of your computer right now that in"
+    ]
+  },
+  {
+    "id": "g005",
+    "query": "What are we waiting for during the small talk?",
+    "expected_output": "We're waiting for the modem to reboot.",
+    "retrieval_context": [
+      "insane amount of money in starbucks too so we understand but we're starbucks too so we understand but we're gonna we're gonna find out soon in a few gonna we're gonna find out soon in a few seconds and hopefully this will solve it seconds and hopefully this will solve it if not we're gonna try we're gonna we're if not we're gonna try we're gonna we're gonna do something else that's for sure gonna do something else that's for sure the part for small talk you're waiting the part for small talk you're waiting for the modem to reboot you have nothing for the modem to reboot you have nothing else to do what else are you gonna do else to do what else are you gonna do small talk small talk and and and the good thing about the small talk in the good thing about the small talk in this conversation is that this conversation is that it's related to"
+    ]
+  },
+  {
+    "id": "g006",
+    "query": "Is there an outage in my area?",
+    "expected_output": "No, there is no outage in your area and there is no open ticket submitted so far.",
+    "retrieval_context": [
+      "around for you so it is very important that she feels so it is very important that she feels that it it is a collaboration instead of that it it is a collaboration instead of you trying to make her do things and not you trying to make her do things and not explaining a thing there's no outage in explaining a thing there's no outage in your area and there's no your area and there's no open ticket submitted so far so open ticket submitted so far so this brings us to the possible issue this brings us to the possible issue with either your modem or your device with either your modem or your device and for me to identify which i'm going and for me to identify which i'm going to ask you a series of questions to to ask you a series of questions to diagnose the problem is that okay with diagnose the problem is that okay with you okay fair enough"
+    ]
+  },
+  {
+    "id": "g007",
+    "query": "Can I change my data plan after my trip?",
+    "expected_output": "Yes, you can change your data plan at any time. If you think your data needs might increase in the future, I can review our current plans with higher data limits to help you avoid additional charges.",
+    "retrieval_context": [
+      "your trip this might than normal during your trip this might have been a one-time thing however if have been a one-time thing however if you think your data needs might increase you think your data needs might increase in the future I can review our current in the future I can review our current plans with higher data limits to help plans with higher data limits to help you avoid additional charges I you avoid additional charges I appreciate that but I don't think I'll appreciate that but I don't think I'll be using that much data again anytime be using that much data again anytime soon I didn't realize how much I was soon I didn't realize how much I was using on my trip I think I'll stick with using on my trip I think I'll stick with my current plan for now that makes my current plan for now that makes sense I've put a note in your"
+    ]
+  },
+  {
+    "id": "g008",
+    "query": "Do you have any more affordable options for rooms?",
+    "expected_output": "I'm sorry, but we currently do not have any more affordable options available.",
+    "retrieval_context": [
+      "kings each room has a king-sized bed which each room has a king-sized bed which fits two people fits two people a wi-fi and access to a swimming pool a wi-fi and access to a swimming pool and free lunch and breakfast all of and free lunch and breakfast all of these these these for two hundred dollars each and that's for two hundred dollars each and that's gonna be gonna be four hundred dollars for for two rooms four hundred dollars for for two rooms how does it sound how does it sound oh that is a bit too much oh that is a bit too much that's a bit expensive actually do you that's a bit expensive actually do you maybe have something maybe have something more affordable than that it's just not more affordable than that it's just not now that i think about it now that i think about it i remember there's a beach close to your i remember"
+    ]
+  },
+  {
+    "id": "g009",
+    "query": "Is this the first time I've experienced issues with my modem since I signed up?",
+    "expected_output": "Yes, according to our records, this is your first time experiencing issues with your modem since you signed up last March.",
+    "retrieval_context": [
+      "right so now all lights from your modem should so now all lights from your modem should be off yep they're turned off all right be off yep they're turned off all right okay so i just need to wait 30 seconds okay so i just need to wait 30 seconds right yes and after 30 seconds plug it right yes and after 30 seconds plug it back in okay back in okay okay it's just weird nobody was touching okay it's just weird nobody was touching yes this could happen sometimes yes this could happen sometimes due to occasional glitches but but due to occasional glitches but but this shouldn't happen very often um this shouldn't happen very often um is this your first time experiencing is this your first time experiencing this since you signed up with us last this since you signed up with us last march march march yeah yeah yeah yeah this is my first time"
+    ]
+  },
+  {
+    "id": "g010",
+    "query": "Why wasn't I notified about the late payment?",
+    "expected_output": "I understand Mr. Garfield. Let me take a look at the notifications we sent to you. I see here that a payment reminder was emailed to you a few days before the due date.",
+    "retrieval_context": [
+      "data plan and options in case current data plan and options in case there's a more suitable plan that could there's a more suitable plan that could prevent these overage charges in the prevent these overage charges in the future yeah that would be helpful but I future yeah that would be helpful but I still don't get why I wasn't notified still don't get why I wasn't notified about the late payment I usually stay on about the late payment I usually stay on top of those things I understand Mr top of those things I understand Mr Garfield let me take a look at the Garfield let me take a look at the notifications we sent to you I see here notifications we sent to you I see here that a payment reminder was emailed to that a payment reminder was emailed to you a few days before the due date but you a few days before the due date but sometimes"
+    ]
+  },
+  {
+    "id": "g011",
+    "query": "Will you reach out to me tomorrow to confirm my order?",
+    "expected_output": "Yes, we will personally reach out to you tomorrow to confirm your order.",
+    "retrieval_context": [
+      "be able to smooth things over it's just one last hurdle and I'll make it's just one last hurdle and I'll make sure you're supported all the way well I sure you're supported all the way well I appreciate you saying that I've been appreciate you saying that I've been pretty frustrated but at least I know pretty frustrated but at least I know you're trying to help you've been a lot you're trying to help you've been a lot nicer than the other agents I spoke too nicer than the other agents I spoke too I really appreciate you trusting me with I really appreciate you trusting me with this you've been more than patient and this you've been more than patient and we're almost at the Finish Line I'll we're almost at the Finish Line I'll keep an eye on your order and we keep an eye on your order and we personally reach out tomorrow to confirm"
+    ]
+  },
+  {
+    "id": "g012",
+    "query": "How do you spell Stephen?",
+    "expected_output": "It's spelled S for Sierra, T for Tango, E for Echo, P for Peter, H for Hotel, E for Echo, N for Nancy.",
+    "retrieval_context": [
+      "your card information information information okay cool you can send it to steven okay cool you can send it to steven thank you how do you spell stephen by thank you how do you spell stephen by the way is that a steven with a v the way is that a steven with a v or a steven with a p that's with a p or a steven with a p that's with a p for pepper thank you for pepper thank you so just to make sure let me just spell so just to make sure let me just spell that out for you that is that out for you that is s for sierra t for tango e for echo s for sierra t for tango e for echo p for peter h for hotel and for nancy p for peter h for hotel and for nancy underscore 182 at underscore 182 at gmail.com yep that's correct gmail.com yep that's correct okay perfect so okay perfect so just to recap you will be booking just to recap you will be booking"
+    ]
+  },
+  {
+    "id": "g013",
+    "query": "How does rebooting my modem help with my internet connection?",
+    "expected_output": "Rebooting your modem can improve your internet connection because it helps resolve slow connection issues and wireless problems. When a modem is left on for too long, it may not perform at its best, so a power recycle can enhance its performance and positively affect services like digital TV or video streaming.",
+    "retrieval_context": [
+      "be running at all times and power recycle really helps all times and power recycle really helps because when you leave your modem on for because when you leave your modem on for too long it will tend to stop performing too long it will tend to stop performing at its best after a while so rebooting at its best after a while so rebooting your modem can affect the the internet your modem can affect the the internet connection problems it improves slow connection problems it improves slow moving connections and resolve wireless moving connections and resolve wireless issues too which also affect your issues too which also affect your digital tv service or video streaming digital tv service or video streaming services like services like netflix or netflix or amazon tv or apple tv that's being amazon tv or apple tv that's being transmitted"
+    ]
+  },
+  {
+    "id": "g014",
+    "query": "Do I have to pay anything out-of-pocket for preventive care services?",
+    "expected_output": "No, you won't have to pay any out-of-pocket costs for preventive care services, as they are generally covered at 100%.",
+    "retrieval_context": [
+      "I'd be happy to answer that with your plan be happy to answer that with your plan you have comprehensive coverage for you have comprehensive coverage for preventive care including vaccinations preventive care including vaccinations screenings and annual screenings and annual checkups these services are generally checkups these services are generally covered at 100% meaning you won't have covered at 100% meaning you won't have to pay any out-of-pocket costs for to pay any out-of-pocket costs for them that's great to know secondly I them that's great to know secondly I recently started a new recently started a new medication and I'm curious if it's medication and I'm curious if it's covered under my prescription drug covered under my prescription drug benefits I understand the importance of benefits I understand the importance of"
+    ]
+  },
+  {
+    "id": "g015",
+    "query": "What are the possible reasons for a complete loss of connection?",
+    "expected_output": "There are five possible reasons for a complete loss of connection: it could be a modem issue, an outage in the area, Sophie may not have paid her bill or forgot to pay it, a device issue, or it could be an obscure issue that only a technician could solve.",
+    "retrieval_context": [
+      "part with most technical issues the cause of with most technical issues the cause of the problem is never straightforward for the problem is never straightforward for example in this scenario a complete loss example in this scenario a complete loss of connection i can think of five of connection i can think of five different possible reasons why different possible reasons why sophie is experiencing this and it could sophie is experiencing this and it could be a modern issue could be an outage in be a modern issue could be an outage in the area it could be that sophie did not the area it could be that sophie did not pay her bill or forgot to pay her bill a pay her bill or forgot to pay her bill a device issue or it could be an obscure device issue or it could be an obscure issue that only a technician could solve issue that only a"
+    ]
+  },
+  {
+    "id": "g016",
+    "query": "Can you suggest a room for four people?",
+    "expected_output": "Absolutely! Please provide me with your requirements, and I'll suggest the best rooms for you.",
+    "retrieval_context": [
+      "i'd be happy to help you sure stephen i'd be happy to help you with that so with that so which room do you have in mind actually which room do you have in mind actually i gotta tell you first i gotta tell you first that i am super busy so that i am super busy so i haven't been able to browse through i haven't been able to browse through your website and i don't know your website and i don't know i don't really know the rooms you have i don't really know the rooms you have right now right now but i could give you my requirements and but i could give you my requirements and then then then you suggest the best rooms for me you suggest the best rooms for me could we do that absolutely what do you could we do that absolutely what do you need need need so there are four of us so there are four of us including me and we need something with"
+    ]
+  },
+  {
+    "id": "g017",
+    "query": "Why was I charged twice for the same item?",
+    "expected_output": "Let's review the duplicate charge. Can you please provide me with the date and amount of the charge?",
+    "retrieval_context": [
+      "you for verification please confirm your email address John John r25 confirm your email address John John r25 yahoo.com thanks again John I have your yahoo.com thanks again John I have your account pulled up please go ahead with account pulled up please go ahead with your question about your account I your question about your account I noticed that I have been charged twice noticed that I have been charged twice for the same item can you help me for the same item can you help me understand why this understand why this happened absolutely happened absolutely let's review the duplicate Char can you let's review the duplicate Char can you please provide me with the date and please provide me with the date and amount of the Char it was on August 10th amount of the Char it was on August 10th for for for $25 I appreciate the information you"
+    ]
+  },
+  {
+    "id": "g018",
+    "query": "Is there an outage in my area?",
+    "expected_output": "No, there is no outage in your area.",
+    "retrieval_context": [
+      "be like be like of course i paid do you think i'm an of course i paid do you think i'm an idiot you're wasting my time fix my idiot you're wasting my time fix my connection now why are you checking my connection now why are you checking my billing history of course i paid billing history of course i paid so you don't want that to happen check so you don't want that to happen check the billing history of your customer the billing history of your customer secretly and only bring up that issue if secretly and only bring up that issue if all right there's no outage in your area all right there's no outage in your area and there's no and there's no open ticket submitted so far so open ticket submitted so far so this brings us to the possible issue this brings us to the possible issue with either your modem or your device with either your"
+    ]
+  },
+  {
+    "id": "g019",
+    "query": "What should I do if I have no internet connection?",
+    "expected_output": "If you have no internet connection, please follow the steps outlined in the call flow chart that Candace provided to troubleshoot the issue. This will help us confirm the cause of the problem and find a solution more quickly.",
+    "retrieval_context": [
+      "non-payment that take the least amount of time to confirm so the sooner you can of time to confirm so the sooner you can rule these two out the faster and more rule these two out the faster and more simplified it will be for you simplified it will be for you so i made a call flow chart for you to so i made a call flow chart for you to make sense of everything that candace is make sense of everything that candace is telling the customer to do telling the customer to do here we start with a call you know thank here we start with a call you know thank you for calling question technical you for calling question technical support support support and then the customer says that she has and then the customer says that she has no internet connection and that is a no internet connection and that is a complete loss of connection right complete"
+    ]
+  },
+  {
+    "id": "g020",
+    "query": "What should I do if the lights on my modem look normal?",
+    "expected_output": "If the lights on your modem look normal, it's a good sign that your service is functioning properly. However, if you're experiencing issues, I can help you troubleshoot further.",
+    "retrieval_context": [
+      "internet service with your internet service 855-3232 correct 855-3232 correct and can you confirm the name of the and can you confirm the name of the account please account please it's linda bloom it's me it's linda bloom it's me thanks so much you're welcome thanks so much you're welcome linda are you near to your modem right linda are you near to your modem right now yes i'm sitting next to it what do now yes i'm sitting next to it what do okay great okay great first we'll go ahead and check the first we'll go ahead and check the lights on your modem can you please tell lights on your modem can you please tell me which lights are on right now me which lights are on right now the lights look normal as if the service the lights look normal as if the service thank you thank you that sounds interesting that sounds interesting let me run a"
+    ]
+  }
+]
