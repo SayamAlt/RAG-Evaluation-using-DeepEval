@@ -68,7 +68,7 @@ Three separate eval scripts cover different parts of the system.
 
 **`evals/eval_application.py`** runs application-level evaluation using G-Eval, a framework where an LLM judge scores each answer against a human-curated golden dataset. It measures three things:
 
-**Correctness** - do the stated facts match the expected answer without contradictions? This is graded strictly on truth, not completeness. Omissions are not penalised — only factually wrong or contradictory claims lower the score. Identifier formatting differences from voice transcription (e.g. spacing in policy numbers) are ignored.
+**Correctness** - do the stated facts match the expected answer without contradictions? This is graded strictly on truth, not completeness. Omissions are not penalised; only factually wrong or contradictory claims lower the score. Identifier formatting differences from voice transcription (e.g. spacing in policy numbers) are ignored.
 
 **Completeness** - does the answer cover the primary key points the question is asking for? Primary key points are anchored to what the question directly asks. Supporting context (reasons, timing qualifiers, navigation sub-steps) is treated as secondary and not penalised when absent. An answer that covers all primary key points must score at least 0.7.
 
