@@ -1,0 +1,142 @@
+[
+  {
+    "id": "c001",
+    "question": "What was the amount of the unrecognized charge on Orlando Taylor's debit account at Andrus Bank?",
+    "expected_output": "The unrecognized charge on Orlando Taylor's debit account at Andrus Bank was $300, posted on the third.",
+    "source_file": "Mock Call #23： Financial Account｜ Bank Customer Service [L2GJaVWQxeE].en.vtt",
+    "video_id": "L2GJaVWQxeE"
+  },
+  {
+    "id": "c002",
+    "question": "What did the merchant tell the Andrus Bank agent when contacted about Orlando Taylor's disputed charge?",
+    "expected_output": "The merchant told the agent that an order was placed and a delivery was made to Orlando Taylor's address.",
+    "source_file": "Mock Call #23： Financial Account｜ Bank Customer Service [L2GJaVWQxeE].en.vtt",
+    "video_id": "L2GJaVWQxeE"
+  },
+  {
+    "id": "c003",
+    "question": "Why was the $1,000 claim denied by United Care for the patient Orlando West?",
+    "expected_output": "The $1,000 claim was denied because there was no authorization on file.",
+    "source_file": "Mock Call #22： (Healthcare Account) Authorization Denial Mock Call [UnqbFEzSBOk].en.vtt",
+    "video_id": "UnqbFEzSBOk"
+  },
+  {
+    "id": "c004",
+    "question": "How many days does a provider have to file an appeal after a claim denial at United Care?",
+    "expected_output": "A provider has 120 days from the denial date to file an appeal.",
+    "source_file": "Mock Call #22： (Healthcare Account) Authorization Denial Mock Call [UnqbFEzSBOk].en.vtt",
+    "video_id": "UnqbFEzSBOk"
+  },
+  {
+    "id": "c005",
+    "question": "What is Thomas K. Douglas's policy number at Vital Care Health Solutions?",
+    "expected_output": "Thomas K. Douglas's policy number at Vital Care Health Solutions is VC253-7107.",
+    "source_file": "Call Center English Conversation： Mock Call 📞 for Health Insurance [VyyX7WjTlRU].en.vtt",
+    "video_id": "VyyX7WjTlRU"
+  },
+  {
+    "id": "c006",
+    "question": "What is the co-payment for a 30-day supply of Health Aid (20mg) when filled at a network pharmacy under Thomas Douglas's plan?",
+    "expected_output": "The co-payment for a 30-day supply of Health Aid (20mg) at a network pharmacy is $20.",
+    "source_file": "Call Center English Conversation： Mock Call 📞 for Health Insurance [VyyX7WjTlRU].en.vtt",
+    "video_id": "VyyX7WjTlRU"
+  },
+  {
+    "id": "c007",
+    "question": "What item was John Rena charged twice for, and what was the amount of each charge?",
+    "expected_output": "John Rena was charged twice for a wireless remote control, with each charge being $25, on August 10th.",
+    "source_file": "MOCK CALL#6： RETAIL ACCOUNT [5gHNhNUQmS0].en.vtt",
+    "video_id": "5gHNhNUQmS0"
+  },
+  {
+    "id": "c008",
+    "question": "How long will it take for the $25 refund to be credited to John Rena's bank account?",
+    "expected_output": "The $25 refund will be processed within 3 business days and then credited to John Rena's bank account within 2 additional business days.",
+    "source_file": "MOCK CALL#6： RETAIL ACCOUNT [5gHNhNUQmS0].en.vtt",
+    "video_id": "5gHNhNUQmS0"
+  },
+  {
+    "id": "c009",
+    "question": "What caused the delivery delay of order 883 56-13 at Express Delivery Services?",
+    "expected_output": "Recent storms in the customer's area caused the package to be delayed at the shipping facility.",
+    "source_file": "Controlling Difficult Customers： Mastering Call Center Role Play Customer Service Skills [1j7o7U6aVto].en.vtt",
+    "video_id": "1j7o7U6aVto"
+  },
+  {
+    "id": "c010",
+    "question": "What did agent Sandra promise to do after the customer's package from Express Delivery Services got back on track?",
+    "expected_output": "Agent Sandra promised to personally follow up with the customer the next day to confirm the package had arrived on time.",
+    "source_file": "Controlling Difficult Customers： Mastering Call Center Role Play Customer Service Skills [1j7o7U6aVto].en.vtt",
+    "video_id": "1j7o7U6aVto"
+  },
+  {
+    "id": "c011",
+    "question": "What room type did Steven book at Hotel California, and what was the total cost for two rooms?",
+    "expected_output": "Steven booked two Classic King rooms at $125 each, for a total of $250.",
+    "source_file": "Mock Call Practice ｜ Hotel Reservation ｜ Short Version [XHvJeSgwii0].en.vtt",
+    "video_id": "XHvJeSgwii0"
+  },
+  {
+    "id": "c012",
+    "question": "Why did agent Candice at Hotel California not collect Steven's credit card number over the phone?",
+    "expected_output": "For security purposes, Hotel California does not take credit card information over the phone. Instead, Candice sent a secure payment link to Steven's email address.",
+    "source_file": "Mock Call Practice ｜ Hotel Reservation ｜ Short Version [XHvJeSgwii0].en.vtt",
+    "video_id": "XHvJeSgwii0"
+  },
+  {
+    "id": "c013",
+    "question": "Was Sophie's internet problem at the telco call an intermittent connection or a complete loss?",
+    "expected_output": "Sophie's internet problem was a complete loss of connection, not intermittent. She had been reloading for 30 minutes with no connection whatsoever.",
+    "source_file": "Telco Account Mock Call for Newbies - No Internet [9n84Nrsjh1A].en.vtt",
+    "video_id": "9n84Nrsjh1A"
+  },
+  {
+    "id": "c014",
+    "question": "What was the deadline Sophie had to send her work report, and what device did she check first to test internet connectivity?",
+    "expected_output": "Sophie had to send her report before 10 AM. She checked her phone first to test internet connectivity, and confirmed YouTube was working on it after the issue was resolved.",
+    "source_file": "Telco Account Mock Call for Newbies - No Internet [9n84Nrsjh1A].en.vtt",
+    "video_id": "9n84Nrsjh1A"
+  },
+  {
+    "id": "c015",
+    "question": "What specific issue was the customer experiencing with the laptop purchased from the technical support company (order 123456789)?",
+    "expected_output": "The laptop was shutting down unexpectedly after running for only a few minutes.",
+    "source_file": "MOCK CALL ｜ TECHNICAL SUPPORT [BvYBAPS7bMQ].en.vtt",
+    "video_id": "BvYBAPS7bMQ"
+  },
+  {
+    "id": "c016",
+    "question": "What troubleshooting steps did agent Annie recommend for the customer with the faulty laptop?",
+    "expected_output": "Agent Annie recommended first checking that all cables were properly connected, then updating the laptop's software and drivers by going to Settings > Update & Security > Check for Updates, and finally restarting the laptop after the updates installed.",
+    "source_file": "MOCK CALL ｜ TECHNICAL SUPPORT [BvYBAPS7bMQ].en.vtt",
+    "video_id": "BvYBAPS7bMQ"
+  },
+  {
+    "id": "c017",
+    "question": "What was the phone number associated with Linda Bloom's internet service account?",
+    "expected_output": "The phone number associated with Linda Bloom's internet service account was 855-3232.",
+    "source_file": "Mock Call #21： Technical Support Sample Call [DwOVXz74N9c].en.vtt",
+    "video_id": "DwOVXz74N9c"
+  },
+  {
+    "id": "c018",
+    "question": "How long did agent Chalene instruct Linda Bloom to leave her modem unplugged during the reboot?",
+    "expected_output": "Agent Chalene instructed Linda Bloom to leave the modem unplugged for 20 to 30 seconds before plugging it back in.",
+    "source_file": "Mock Call #21： Technical Support Sample Call [DwOVXz74N9c].en.vtt",
+    "video_id": "DwOVXz74N9c"
+  },
+  {
+    "id": "c019",
+    "question": "What were the two extra charges on Mr. Garfield's Bright Star Services bill that made it $150 instead of the usual $80?",
+    "expected_output": "The two extra charges were a late payment fee (because his payment was posted a few days after the due date) and a data overage charge (because he exceeded his data plan limit during a trip).",
+    "source_file": "Resolving a Confusing Billing Issue ｜ Call Center English & Customer Service Excellence [wZiUgLaKNec].en.vtt",
+    "video_id": "wZiUgLaKNec"
+  },
+  {
+    "id": "c020",
+    "question": "What did agent Lisa set up for Mr. Garfield to prevent him from missing future payment due dates at Bright Star Services?",
+    "expected_output": "Agent Lisa set up text alerts that would notify Mr. Garfield 3 days before his payment due date, in addition to the existing email reminders.",
+    "source_file": "Resolving a Confusing Billing Issue ｜ Call Center English & Customer Service Excellence [wZiUgLaKNec].en.vtt",
+    "video_id": "wZiUgLaKNec"
+  }
+]
