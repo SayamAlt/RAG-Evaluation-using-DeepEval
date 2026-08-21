@@ -66,6 +66,16 @@ Three separate eval scripts cover different parts of the system.
 
 **Answer Relevancy** - does the answer address the question?
 
+**`evals/eval_application.py`** runs application-level evaluation using G-Eval, a framework where an LLM judge scores each answer against a human-curated golden dataset. It measures three things:
+
+**Correctness** - do the stated facts match the expected answer without contradictions? This is graded strictly on truth, not completeness. Omissions are not penalised — only factually wrong or contradictory claims lower the score. Identifier formatting differences from voice transcription (e.g. spacing in policy numbers) are ignored.
+
+**Completeness** - does the answer cover the primary key points the question is asking for? Primary key points are anchored to what the question directly asks. Supporting context (reasons, timing qualifiers, navigation sub-steps) is treated as secondary and not penalised when absent. An answer that covers all primary key points must score at least 0.7.
+
+**Style** - is the answer written the way a customer support report should read? It should be direct, concise, in complete sentences, use a neutral third-person voice, and use precise terminology rather than generic labels. Brevity is a strength, not a flaw.
+
+All three metrics use rubric-based G-Eval with graded scoring (`strict_mode=False`), meaning scores are continuous rather than pass/fail. The judge model is `gpt-4.1-mini` and the pass threshold is 0.7.
+
 All metrics are scored by `gpt-4.1-mini` acting as a judge, with a pass threshold of 0.7.
 
 ---
@@ -79,6 +89,8 @@ All metrics are scored by `gpt-4.1-mini` acting as a judge, with a pass threshol
 `goldens/faithfulness_golden_dataset.json` has 20 questions for generator and pipeline evaluation. Each question is paired with the exact chunk it came from, stored as `golden_context`, along with the source `video_id`.
 
 `goldens/faithfulness_dataset_generator.py` made them. It loads all chunks directly from the ChromaDB store, exports them to `goldens/chunks.json`, samples 20, and sends each one to `gpt-4o-mini` to get a question. All 20 run in parallel.
+
+`goldens/correctness_golden_dataset.json` has 20 questions for application-level evaluation. Each question was written by hand against a specific call center transcript, with a human-verified expected answer. Every entry cites the source VTT file and video ID so results can be traced back to the original call. Two questions per source file cover different aspects of the same conversation (e.g. a charge amount and a follow-up action).
 
 ---
 
@@ -118,6 +130,12 @@ Full RAG pipeline eval:
 python -m evals.eval_rag_pipeline
 ```
 
+Application-level eval (G-Eval, correctness golden dataset):
+
+```bash
+python -m evals.eval_application
+```
+
 Each script builds the vector store if one does not exist yet, runs every golden query, and prints a report with scores for each test case.
 
 ---
@@ -139,11 +157,13 @@ goldens/
   faithfulness_golden_dataset.json          20 questions with source chunks for generator eval
   faithfulness_dataset_generator.py        generates faithfulness golden pairs from ChromaDB
   chunks.json                               all chunks exported from the vector store
+  correctness_golden_dataset.json           20 hand-curated Q&A pairs for application-level eval
 
 evals/
   eval_retriever.py                         runs ContextualPrecision and ContextualRecall
   eval_generator.py                         runs Faithfulness and AnswerRelevancy on the generator
   eval_rag_pipeline.py                      runs the RAG triad on the full pipeline
+  eval_application.py                       runs G-Eval (Correctness, Completeness, Style) on live pipeline output
 
 deepeval_intro.py                           small demo showing how deepeval works
 ```
