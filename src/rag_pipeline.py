@@ -3,7 +3,7 @@ from src.reranker import RerankingRetriever
 
 class RAGPipeline:
     
-    def __init__(self, fetch_k=10, top_k=5):
+    def __init__(self, fetch_k=20, top_k=10):
         # 1 retriever instance which loads vector store and reranker model
         self.retriever = RerankingRetriever(fetch_k=fetch_k, top_k=top_k)
         

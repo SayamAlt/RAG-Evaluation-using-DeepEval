@@ -13,8 +13,11 @@ DESTINATION_DIR = "chroma_store"
 embeddings = OpenAIEmbeddings(model="text-embedding-3-large")
 
 def load_vector_store():
+    if os.path.exists(DESTINATION_DIR) and os.listdir(DESTINATION_DIR):
+        return Chroma(persist_directory=DESTINATION_DIR, embedding_function=embeddings)
+
     docs = []
-    
+
     for path in glob.glob(f"{DATA_DIR}/*.vtt"):
         lines = []
         
