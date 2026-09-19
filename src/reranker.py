@@ -1,5 +1,6 @@
 from sentence_transformers import CrossEncoder
 from src.retriever import load_vector_store
+from langsmith import traceable
 
 # Small, fast, CPU-friendly reranker. Downloads once (~80MB) on first run.
 CROSS_ENCODER = "cross-encoder/ms-marco-MiniLM-L-6-v2"
@@ -11,6 +12,7 @@ class RerankingRetriever:
         self.fetch_k = fetch_k # How many the bi-encoder brings back (over-retrieve)
         self.top_k = top_k # How many survive after reranking
         
+    @traceable(name="Reranking Retriever", run_type="retriever")
     def invoke(self, query):
         # OVER-RETRIEVE: fast bi-encoder, deliberately more than we need
         candidates = self.vector_store.similarity_search(query, k=self.fetch_k)

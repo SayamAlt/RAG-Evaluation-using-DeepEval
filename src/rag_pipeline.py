@@ -1,5 +1,6 @@
 from src.generator import generate
 from src.reranker import RerankingRetriever
+from langsmith import traceable
 
 class RAGPipeline:
     
@@ -7,6 +8,7 @@ class RAGPipeline:
         # 1 retriever instance which loads vector store and reranker model
         self.retriever = RerankingRetriever(fetch_k=fetch_k, top_k=top_k)
         
+    @traceable(run_type="chain", name="RAG Pipeline")
     def invoke(self, query: str) -> dict:
         # Retrieve: over-fetch then rerank results down to top_k documents
         retrieved_docs = self.retriever.invoke(query)

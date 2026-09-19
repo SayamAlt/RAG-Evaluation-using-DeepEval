@@ -6,11 +6,13 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "chromadb>=1.5.9",
+    "deepagents>=0.7.15",
     "deepeval>=4.1.8",
     "langchain-chroma>=1.1.0",
     "langchain-core>=1.5.4",
     "langchain-openai>=1.5.0",
     "langchain-text-splitters>=1.1.2",
+    "langsmith>=0.13.0",
     "openai>=3.0.0",
     "pytest>=9.1.1",
     "python-dotenv>=1.2.2",
