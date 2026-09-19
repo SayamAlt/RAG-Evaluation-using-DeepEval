@@ -1,0 +1,142 @@
+[
+  {
+    "id": "al_001",
+    "question": "What was the amount of the charge Orlando Taylor disputed with Andrus Bank?",
+    "expected_answer": "Orlando Taylor disputed a $300 charge that posted on the 3rd.",
+    "source_file": "Mock Call #23： Financial Account｜ Bank Customer Service [L2GJaVWQxeE].en.vtt",
+    "video_id": "L2GJaVWQxeE"
+  },
+  {
+    "id": "al_002",
+    "question": "What was the name of the Andrus Bank agent who handled Orlando Taylor's dispute call?",
+    "expected_answer": "The Andrus Bank agent who handled Orlando Taylor's dispute call was named Chalene.",
+    "source_file": "Mock Call #23： Financial Account｜ Bank Customer Service [L2GJaVWQxeE].en.vtt",
+    "video_id": "L2GJaVWQxeE"
+  },
+  {
+    "id": "al_003",
+    "question": "What reason did United Care give for denying Orlando West's $1,000 claim?",
+    "expected_answer": "United Care denied the $1,000 claim because there was no prior authorization on file.",
+    "source_file": "Mock Call #22： (Healthcare Account) Authorization Denial Mock Call [UnqbFEzSBOk].en.vtt",
+    "video_id": "UnqbFEzSBOk"
+  },
+  {
+    "id": "al_004",
+    "question": "What specific action did the United Care agent advise the provider to take after the claim denial?",
+    "expected_answer": "The United Care agent advised the provider to file an appeal within 120 days of the denial date.",
+    "source_file": "Mock Call #22： (Healthcare Account) Authorization Denial Mock Call [UnqbFEzSBOk].en.vtt",
+    "video_id": "UnqbFEzSBOk"
+  },
+  {
+    "id": "al_005",
+    "question": "What was the copay amount for Health Aid 20mg under Thomas Douglas's Vital Care Health Solutions plan?",
+    "expected_answer": "The copay for Health Aid 20mg under Thomas Douglas's Vital Care Health Solutions plan was $20 at a network pharmacy.",
+    "source_file": "Call Center English Conversation： Mock Call 📞 for Health Insurance [VyyX7WjTlRU].en.vtt",
+    "video_id": "VyyX7WjTlRU"
+  },
+  {
+    "id": "al_006",
+    "question": "At what type of pharmacy could Thomas Douglas use his Vital Care Health Solutions coverage for Health Aid 20mg?",
+    "expected_answer": "Thomas Douglas could use his Vital Care Health Solutions coverage for Health Aid 20mg at a network pharmacy.",
+    "source_file": "Call Center English Conversation： Mock Call 📞 for Health Insurance [VyyX7WjTlRU].en.vtt",
+    "video_id": "VyyX7WjTlRU"
+  },
+  {
+    "id": "al_007",
+    "question": "What product did John Rena report being charged twice for in his retail account call?",
+    "expected_answer": "John Rena reported being charged twice for a wireless remote control.",
+    "source_file": "MOCK CALL#6： RETAIL ACCOUNT [5gHNhNUQmS0].en.vtt",
+    "video_id": "5gHNhNUQmS0"
+  },
+  {
+    "id": "al_008",
+    "question": "How many total business days would it take for John Rena's duplicate charge refund to appear in his bank account?",
+    "expected_answer": "It would take a total of 5 business days — 3 business days to process the refund and an additional 2 business days to credit it to John Rena's bank account.",
+    "source_file": "MOCK CALL#6： RETAIL ACCOUNT [5gHNhNUQmS0].en.vtt",
+    "video_id": "5gHNhNUQmS0"
+  },
+  {
+    "id": "al_009",
+    "question": "What caused the delivery delay on order 883 56-13 at Express Delivery Services?",
+    "expected_answer": "The delivery delay on order 883 56-13 at Express Delivery Services was caused by storms.",
+    "source_file": "Controlling Difficult Customers： Mastering Call Center Role Play Customer Service Skills [1j7o7U6aVto].en.vtt",
+    "video_id": "1j7o7U6aVto"
+  },
+  {
+    "id": "al_010",
+    "question": "What was the name of the agent at Express Delivery Services who handled the difficult customer call?",
+    "expected_answer": "The agent who handled the difficult customer call at Express Delivery Services was named Sandra.",
+    "source_file": "Controlling Difficult Customers： Mastering Call Center Role Play Customer Service Skills [1j7o7U6aVto].en.vtt",
+    "video_id": "1j7o7U6aVto"
+  },
+  {
+    "id": "al_011",
+    "question": "What was the total cost for Steven's Hotel California reservation for his group of four guests?",
+    "expected_answer": "The total cost for Steven's Hotel California reservation was $250, consisting of two Classic King rooms at $125 each.",
+    "source_file": "Mock Call Practice ｜ Hotel Reservation ｜ Short Version [XHvJeSgwii0].en.vtt",
+    "video_id": "XHvJeSgwii0"
+  },
+  {
+    "id": "al_012",
+    "question": "What date did Steven book his Hotel California reservation for?",
+    "expected_answer": "Steven booked his Hotel California reservation for August 18.",
+    "source_file": "Mock Call Practice ｜ Hotel Reservation ｜ Short Version [XHvJeSgwii0].en.vtt",
+    "video_id": "XHvJeSgwii0"
+  },
+  {
+    "id": "al_013",
+    "question": "Why was it particularly urgent for Sophie to get her internet restored during her Christian Technical Support call?",
+    "expected_answer": "It was urgent because Sophie had a 10 AM deadline and needed internet access to meet it.",
+    "source_file": "Telco Account Mock Call for Newbies - No Internet [9n84Nrsjh1A].en.vtt",
+    "video_id": "9n84Nrsjh1A"
+  },
+  {
+    "id": "al_014",
+    "question": "Was Sophie's internet problem intermittent or a complete outage when she called Christian Technical Support?",
+    "expected_answer": "Sophie was experiencing a complete internet outage, not an intermittent problem — both her phone and desktop had no connection.",
+    "source_file": "Telco Account Mock Call for Newbies - No Internet [9n84Nrsjh1A].en.vtt",
+    "video_id": "9n84Nrsjh1A"
+  },
+  {
+    "id": "al_015",
+    "question": "What software troubleshooting step did agent Annie guide the customer through to fix the laptop shutdowns?",
+    "expected_answer": "Agent Annie guided the customer to go to Settings, then Update & Security, then Check for Updates, and finally restart the laptop.",
+    "source_file": "MOCK CALL ｜ TECHNICAL SUPPORT [BvYBAPS7bMQ].en.vtt",
+    "video_id": "BvYBAPS7bMQ"
+  },
+  {
+    "id": "al_016",
+    "question": "What issue was the customer experiencing with the laptop from order number 123456789?",
+    "expected_answer": "The customer's laptop from order number 123456789 was unexpectedly shutting down after being on for just a few minutes.",
+    "source_file": "MOCK CALL ｜ TECHNICAL SUPPORT [BvYBAPS7bMQ].en.vtt",
+    "video_id": "BvYBAPS7bMQ"
+  },
+  {
+    "id": "al_017",
+    "question": "What was the name of the customer who called about internet connectivity issues in Mock Call 21?",
+    "expected_answer": "The customer who called about internet connectivity issues in Mock Call 21 was Linda Bloom.",
+    "source_file": "Mock Call #21： Technical Support Sample Call [DwOVXz74N9c].en.vtt",
+    "video_id": "DwOVXz74N9c"
+  },
+  {
+    "id": "al_018",
+    "question": "What troubleshooting step did agent Chalene walk Linda Bloom through to resolve her internet issue in Mock Call 21?",
+    "expected_answer": "Agent Chalene walked Linda Bloom through unplugging the modem, waiting 20 to 30 seconds, and then plugging it back in.",
+    "source_file": "Mock Call #21： Technical Support Sample Call [DwOVXz74N9c].en.vtt",
+    "video_id": "DwOVXz74N9c"
+  },
+  {
+    "id": "al_019",
+    "question": "What was Mr. Garfield's usual monthly bill at Bright Star Services before the unexpected charges?",
+    "expected_answer": "Mr. Garfield's usual monthly bill at Bright Star Services was $80 before the unexpected charges brought it to $150.",
+    "source_file": "Resolving a Confusing Billing Issue ｜ Call Center English & Customer Service Excellence [wZiUgLaKNec].en.vtt",
+    "video_id": "wZiUgLaKNec"
+  },
+  {
+    "id": "al_020",
+    "question": "What was the name of the Bright Star Services agent who helped Mr. Garfield understand his billing discrepancy?",
+    "expected_answer": "The Bright Star Services agent who helped Mr. Garfield understand his billing discrepancy was named Lisa.",
+    "source_file": "Resolving a Confusing Billing Issue ｜ Call Center English & Customer Service Excellence [wZiUgLaKNec].en.vtt",
+    "video_id": "wZiUgLaKNec"
+  }
+]
